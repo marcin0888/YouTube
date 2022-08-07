@@ -1,0 +1,85 @@
+/* font-family: 'Roboto', sans-serif; */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  /* Hide scrollbars */
+}
+
+/* Sidebar & Navbar */
+.no-wrap {
+  flex-wrap: nowrap;
+}
+
+.icon-yt {
+  color: red;
+}
+
+.text-black {
+  color: black;
+}
+
+.float {
+  float: left;
+}
+
+.text-grey {
+  color: black;
+  transition: 0.1s;
+}
+
+.text-grey:hover {
+  color: rgb(99, 99, 99);
+}
+
+.search:hover {
+  cursor: pointer;
+}
+
+.additional-icon {
+  font-size: 150%;
+}
+
+.nav-item {
+  /* padding: 0 2%; */
+  margin: 5px;
+}
+
+/* Pagination */
+.Page {
+  overflow: hidden;
+}
+
+.page-link {
+  color: black;
+  padding: 2px 20px;
+}
+
+.arrow {
+  border: 0;
+}
+
+.pag-pill {
+  background-color: #e5e5e5;
+}
+
+.pag-pill:hover {
+  background-color: #dbdbdb;
+  color: black;
+}
+
+/* Video */
+.video {
+  transition: 0.4s;
+  border: 0;
+}
+.video:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
