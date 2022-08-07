@@ -14,8 +14,7 @@
 * Async/defer to come
 
 <p align="center">
-  <img src=""https://i.ibb.co/jRLqrdJ/Youtube.png" alt="PrtSc"/>
+<a href="https://ibb.co/nCD4LTP"><img src="https://i.ibb.co/jRLqrdJ/Youtube.png" alt="Youtube" border="0"></a>
 </p>
 
 ## Project is not considered done. 
-<a href="https://ibb.co/nCD4LTP"><img src="https://i.ibb.co/jRLqrdJ/Youtube.png" alt="Youtube" border="0"></a>
