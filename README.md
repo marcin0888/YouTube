@@ -15,4 +15,9 @@
 * Cards with videos and controls that scale when hover
 * Async/defer to come
 
+<p align="center">
+  <img src="https://i.ibb.co/V2QGmNz/project2.jpg" alt="YouTube"/>
+</p>
+
+
 ## Project is not considered done. 
